@@ -10,5 +10,6 @@ Codesans fonts are released under [CC0 1.0 License](https://creativecommons.org/
 # About glyphs of this font family:
 Capital greek alphabets Alpha has two kinds of glyphs, are influenced from:
 https://user.guancha.cn/main/content?id=83506
+https://i.guancha.cn/bbs/2019/02/27/20190227124451525.jpg?imageView2/2/w/500/format/jpg
 https://www.livescience.com/64854-where-pompeii-refugees-fled.html
 https://cdn.mos.cms.futurecdn.net/P5p23iwPUVaabSQ9rKUg5G-970-80.jpg.webp
